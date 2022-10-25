@@ -8,8 +8,8 @@
 
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
-os.system('xdg-open https://youtube.com/channel/UCG_zgIRcf9wRnzsuMpz3aMQ')
 try:
+    os.system('xdg-open https://youtube.com/channel/UCG_zgIRcf9wRnzsuMpz3aMQ')
     import os,sys,time
     import requests
     import json
